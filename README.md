@@ -1,16 +1,14 @@
-### Hi there 👋
+## Matheus Freitas Campos
 
-<!--
-**MatheusFC2/MatheusFC2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusfreitascampos@gmail.com)](mailto:matheusfreitascampos@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_.gabriellopes/?hl=pt-br)
 
-Here are some ideas to get you started:
+###### An arrow can only be launched if it is pulled back first. So, when life pulls you back with difficulties and challenges, you will surely be launched for something big, and good. Just concentrate and keep aiming. 🏹🛡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technologies and Tools ⚙
+<div class="row">
+  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+  <img  src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
+  <img  src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu" width="30">
+  <img src="https://cdn.svgporn.com/logos/terminal.svg" height="30" alt="terminal" width="30">
+</div>
