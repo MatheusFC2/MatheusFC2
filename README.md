@@ -12,5 +12,4 @@
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu" width="30">
   <img src="https://cdn.svgporn.com/logos/terminal.svg" height="30" alt="terminal" width="30">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjavascript-logo%2F&psig=AOvVaw3OfdctlRvDYTwhcvXMIll9&ust=1607304349051000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiH9rqZuO0CFQAAAAAdAAAAABAD" height="30" alt="javascript" width="30">
-</div>
+ <\div>
