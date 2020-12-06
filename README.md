@@ -1,5 +1,6 @@
 ## Matheus Freitas Campos
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusFC2)](https://github.com/MatheusFC2)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusfreitascampos@gmail.com)](mailto:matheusfreitascampos@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MathFC2)](https://twitter.com/MathFC2)
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/matheusfc_2/?hl=pt-br)
