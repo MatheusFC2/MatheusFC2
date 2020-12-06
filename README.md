@@ -9,9 +9,10 @@
 
 ### 🚀 Technologies and Tools ⚙
 <div class="row">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu" width="30">
   <img src="https://cdn.svgporn.com/logos/terminal.svg" height="30" alt="terminal" width="30">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 </div>
