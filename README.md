@@ -17,3 +17,5 @@
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu" width="30">
   <img src="https://cdn.svgporn.com/logos/terminal.svg" height="30" alt="terminal" width="30">
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFC2)](https://github.com/anuraghazra/github-readme-stats)
