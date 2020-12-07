@@ -20,4 +20,4 @@
 
 
 
-[![MatheusFC2's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFC2&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![MatheusFC2's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFC2&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
