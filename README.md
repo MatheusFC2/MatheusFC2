@@ -18,4 +18,4 @@
   <img src="https://cdn.svgporn.com/logos/terminal.svg" height="30" alt="terminal" width="30">
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFC2)](https://github.com/anuraghazra/github-readme-stats)
+[![MatheusFC2's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFC2)](https://github.com/anuraghazra/github-readme-stats)
