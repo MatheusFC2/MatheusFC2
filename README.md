@@ -7,6 +7,15 @@
 
 ###### An arrow can only be launched if it is pulled back first. So, when life pulls you back with difficulties and challenges, you will surely be launched for something big, and good. Just concentrate and keep aiming. 🏹🛡
 
+
+### My goals:
+* Helping people who like the development area or want to start👨‍🎓
+* Improve even more in the area I love so much
+* Learn about programming and investments 💰
+* Contribute to the community 😁.
+* And this list is growing every day!
+
+
 ### 🚀 Technologies and Tools ⚙
 <div class="row">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
