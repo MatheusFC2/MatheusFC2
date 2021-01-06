@@ -18,7 +18,7 @@
 
 ### 🚀 Technologies and Tools ⚙
 <div class="row">
-  <img src="https://banner2.cleanpng.com/20180530/gbf/kisspng-github-repository-git-project-commit-5b0f2dd1efb513.5784673515277214259819.jpg" alt="git" width="30" height="30"/>
+  <img src="https://img1.gratispng.com/20180824/gwx/kisspng-computer-icons-pro-git-portable-network-graphics-i-git-book-pro-git-app-app-5b80546bc0a4c5.2332101615351368757891.jpg" alt="git" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
