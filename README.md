@@ -20,7 +20,7 @@
 <div class="row">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="30" height="30"/>
   <img src="https://tadeuesteves.files.wordpress.com/2014/01/javascript-logo.png" alt="javascript" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="github" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
   <img src="https://cdn.svgporn.com/logos/ubuntu.svg" height="30" alt="ubuntu" width="30">
   <img src="https://cdn.svgporn.com/logos/terminal.svg" height="30" alt="terminal" width="30">
