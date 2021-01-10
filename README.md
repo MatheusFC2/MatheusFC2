@@ -29,3 +29,4 @@
 
 
 [![MatheusFC2's github stats](https://github-readme-stats.vercel.app/api?username=MatheusFC2&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MatheusFC2" alt="MatheusFC2" /> </p>
