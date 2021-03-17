@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <a href="instagram.com/matheusfc.dev/" alt="Instagram">
+  <a href="https://instagram.com/matheusfc.dev" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/matheusfc.dev/"/></a>
 
   <a href="https://www.linkedin.com/in/matheus-freitas-campos-235305137/" alt="Linkedin">
