@@ -1,15 +1,15 @@
 <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS.</strong>
+  🦄 Skills: <strong>HTML, CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Vercel, Git and GitHub.</strong>
+  💼 Tools: <strong>VSCode, Figma, Vercel, Git and GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
+  💌 If you want to carry out a project with me (or chat), do not hesitate to send me a message: ⤵️
 </p>
 
 <p align="left">
@@ -24,8 +24,8 @@
 </p>
 
 <p align="left">
-  <a href="/brasil.png" alt="turn lenguage"
-    <img src=brasil.png/>
+  <a href="/brasil.png" alt="turn lenguage">
+    <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/brasil.png">
   </a> 
 </p>
   
