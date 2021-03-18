@@ -25,7 +25,7 @@
 
 <p align="left">
   <a href="https://github.com/MatheusFC2/MatheusFC2/blob/master/README-pt.md" alt="turn lenguage">
-    <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/brasil.png">
+    <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/brasil.png" min-width="100px" max-width="100px" width="100px" align="left" alt="Turn Lenguage Portugues">
   </a> 
 </p>
   
