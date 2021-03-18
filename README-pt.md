@@ -21,3 +21,13 @@
   
   <a href="https://github.com/MatheusFC2" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MatheusFC2"/></a>
+</p>
+
+<p align="left">
+  <strong>Change the language</strong>
+</p>
+<p align="left">
+  <a href="https://github.com/MatheusFC2/MatheusFC2/blob/master/README.md" alt="turn lenguage">
+    <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/usa.jpg" align-content="flex-end" min-width="50px" max-width="50px" width="50px" align="left" alt="Turn Lenguage Portugues">
+  </a> 
+</p>
