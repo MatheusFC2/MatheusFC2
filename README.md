@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  <a href="/brasil.png" alt="turn lenguage">
+  <a href="https://github.com/MatheusFC2/MatheusFC2/blob/master/README-pt.md" alt="turn lenguage">
     <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/brasil.png">
   </a> 
 </p>
