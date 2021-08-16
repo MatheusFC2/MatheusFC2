@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MatheusFC2"/></a>
 
 
-<a href="https://www.twitch.tv/math1asfc" alt="Twitch">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&https://www.twitch.tv/math1asfc"/></a>
+<a href="https://www.twitch.tv/omatheusfc" alt="Twitch">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&https://www.twitch.tv/omatheusfc"/></a>
 </p>
 
 <p align="left">
