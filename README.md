@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/matheus-freitas-campos-235305137/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-freitas-campos-235305137/" /></a>
   
-  <a href="https://github.com/MatheusFC2" alt="Github">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MatheusFC2"/></a>
-
 
 <a href="https://www.twitch.tv/omatheusfc" alt="Twitch">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&https://www.twitch.tv/omatheusfc"/></a>
