@@ -1,7 +1,7 @@
 <img src="https://github.com/MatheusFC2/MatheusFC2/blob/master/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador-Matheus">
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, Bootstrap, JS, React Native.</strong>
+  🦄 Skills: <strong>HTML, CSS, Bootstrap, Styled-Components, JS, React Native.</strong>
 </p>
 
 <p align="left">
